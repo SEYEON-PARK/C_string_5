@@ -4,7 +4,7 @@
 
 int main(void)
 {
-	char a[30] = "¾È³çÇÏ¼¼¿ä. ", b[30] = "Hi~ Hello!";
+	char a[30] = "ì•ˆë…•í•˜ì„¸ìš”. ", b[30] = "Hi~ Hello!";
 	printf("%s\n", strncat(a, b, 3));
 
 	return 0;
